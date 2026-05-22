@@ -2,10 +2,10 @@
   "apps": [
  
     {
-      "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
-      "targetAsin": "B0BFQPLZS1",
-      "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
+      "name": "AirPlane Simulator Fyr",
+      "packageName": "com.kick.flight.pilot.airplane.games",
+      "targetAsin": "B0CRRL1QKN",
+      "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
       "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
     },
   
@@ -32,7 +32,7 @@
     },
     {
       "name": "AirPlane Simulator",
-      "packageName": "com.ikk.flight.pilot.airplane.games",
+      "packageName": "com.kick.flight.pilot.airplane.games",
       "targetAsin": "B0BFQPLZS1",
       "storeUrl": "https://www.amazon.com/Airplane-Simulator-Landing-Adventure-Games/dp/B0BFQPLZS1",
       "rewardedVideoURL": "https://files.catbox.moe/8odv11.mp4"
