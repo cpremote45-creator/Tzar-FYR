@@ -3,7 +3,7 @@
  
     {
       "name": "AirPlane Simulator Fyr",
-      "packageName": "com.kick.flight.pilot.airplane.games",
+      "packageName": "com.rog.plane.simulator.game",
       "targetAsin": "B0CRRL1QKN",
       "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
       "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
@@ -17,11 +17,11 @@
       "rewardedVideoURL": "https://files.catbox.moe/9986hg.mp4"
     },
     {
-      "name": "Dino Hunting",
-      "packageName": "com.dino.family.simulator.hunt",
-      "targetAsin": "B0GHNNSRLC",
-      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
-      "rewardedVideoURL": "https://files.catbox.moe/lzm1lb.mp4"
+      ""name": "AirPlane Simulator Fyr",
+      "packageName": "com.rog.plane.simulator.game",
+      "targetAsin": "B0CRRL1QKN",
+      "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
+      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
     },
      {
       "name": "Worm Clash",
