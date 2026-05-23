@@ -6,15 +6,15 @@
       "packageName": "com.rog.plane.simulator.game",
       "targetAsin": "B0CRRL1QKN",
       "storeUrl": "https://www.amazon.com/City-Pilot-Airplane-Flight-Simulator/dp/B0CRRL1QKN",
-      "rewardedVideoURL": "https://files.catbox.moe/mxgsjt.mp4"
+      "rewardedVideoURL": "https://files.catbox.moe/3750me.mp4"
     },
   
     {
-      "name": "Worm Clash",
-      "packageName": "com.worm.snake.clah.mm",
-      "targetAsin": "B0GYPZJ4R2",
-      "storeUrl": "https://www.amazon.com/Clash-Battle-Arena-Survive-Ultimate/dp/B0GYPZJ4R2",
-      "rewardedVideoURL": "https://files.catbox.moe/9986hg.mp4"
+      "name": "Dino Hunting",
+      "packageName": "com.dino.family.simulator.hunt",
+      "targetAsin": "B0GHNNSRLC",
+      "storeUrl": "https://www.amazon.com/Hunting-Family-Simulator-Dinosaur-world/dp/B0GHNNSRLC",
+      "rewardedVideoURL": "https://files.catbox.moe/yps6j9.mp4"
     },
     {
       "name": "AirPlane Simulator Fyr",
